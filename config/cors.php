@@ -1,0 +1,1 @@
+'allowed_origins' => ['https://move-on-beige.vercel.app/'],
